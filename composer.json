@@ -1,11 +1,11 @@
 {
-    "name": "gstt/laravel-achievements",
-    "description": "Achievements for Laravel 5.3+",
+    "name": "szachara/laravel-achievements",
+    "description": "Achievements for Laravel 5.3+, this is personal fork of https://github.com/gstt/laravel-achievements",
     "license": "MIT",
     "authors": [
         {
-            "name": "Gabriel Simonetti",
-            "email": "simonettigo@gmail.com"
+            "name": "Silver Zachara",
+            "email": "silver.zachara@gmail.com"
         }
     ],
     "autoload": {
