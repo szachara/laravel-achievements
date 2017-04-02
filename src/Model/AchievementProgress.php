@@ -9,6 +9,8 @@ use Ramsey\Uuid\Uuid;
 /**
  * Model for the table that will store the data regarding achievement progress and unlocks.
  *
+ * test
+ *
  * @category Model
  * @package  Gstt\Achievements\Model
  * @author   Gabriel Simonetti <simonettigo@gmail.com>
